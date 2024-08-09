@@ -1,1 +1,2 @@
 # HospitalManagementSystem
+JAVA COMMAND LINE PROJECT USING JDBC AND MYSQL
