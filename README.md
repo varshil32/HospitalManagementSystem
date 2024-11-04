@@ -32,7 +32,7 @@ The **Hospital Management System** is a Java-based console application designed 
 ## Setup and Installation
 1. **Database Configuration**:
    - Create a MySQL database named `hospital`.
-   - Execute SQL scripts to create tables for `patients`, `doctors`, `appointments`, etc.
+   - Execute SQL scripts given in folder `Database` to create tables for `patients`, `doctors`, `appointments`.
    - Ensure the database user credentials match those in the code.
 
 2. **Project Setup**:
@@ -55,9 +55,4 @@ The **Hospital Management System** is a Java-based console application designed 
 - **Patient.java**: Class for managing patient-related operations.
 - **Doctor.java**: Class for doctor-related operations.
 - **AppointmentViewer.java**: Class to display booked appointments.
-
-## Database Tables
-- **Patients Table**: Stores patient details (e.g., ID, name, contact).
-- **Doctors Table**: Stores doctor information (e.g., ID, name, specialization).
-- **Appointments Table**: Manages appointments with references to patients and doctors.
 
